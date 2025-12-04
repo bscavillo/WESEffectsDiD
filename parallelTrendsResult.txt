@@ -1,0 +1,36 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               log_Rate   R-squared:                       0.907
+Model:                            OLS   Adj. R-squared:                  0.891
+Method:                 Least Squares   F-statistic:                     18.15
+Date:                Thu, 04 Dec 2025   Prob (F-statistic):           0.000371
+Time:                        09:53:44   Log-Likelihood:                 40.624
+No. Observations:                  80   AIC:                            -55.25
+Df Residuals:                      67   BIC:                            -24.28
+Df Model:                          12                                         
+Covariance Type:              cluster                                         
+============================================================================================================
+                                               coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------
+Intercept                                   -3.4922      0.043    -81.549      0.000      -3.576      -3.408
+C(Province)[T.British Columbia]              0.0647   4.09e-15   1.58e+13      0.000       0.065       0.065
+C(Province)[T.Manitoba]                     -0.6731   4.73e-15  -1.42e+14      0.000      -0.673      -0.673
+C(Province)[T.New Brunswick]                -0.7498    4.3e-15  -1.74e+14      0.000      -0.750      -0.750
+C(Province)[T.Newfoundland and Labrador]    -1.0006   4.97e-15  -2.01e+14      0.000      -1.001      -1.001
+C(Province)[T.Nova Scotia]                  -0.4807   4.74e-15  -1.01e+14      0.000      -0.481      -0.481
+C(Province)[T.Ontario]                       0.0187      4e-15   4.69e+12      0.000       0.019       0.019
+C(Province)[T.Prince Edward Island]         -0.8985   3.78e-15  -2.37e+14      0.000      -0.899      -0.899
+C(Province)[T.Quebec]                       -0.1609   3.42e-15  -4.71e+13      0.000      -0.161      -0.161
+C(Province)[T.Saskatchewan]                 -0.5404    4.2e-15  -1.29e+14      0.000      -0.540      -0.540
+Treat                                       -0.5384      0.085     -6.333      0.000      -0.705      -0.372
+Time_Trend                                  -0.0019      0.023     -0.086      0.932      -0.046       0.042
+Treat:Time_Trend                             0.0186      0.041      0.452      0.651      -0.062       0.099
+==============================================================================
+Omnibus:                        2.724   Durbin-Watson:                   1.310
+Prob(Omnibus):                  0.256   Jarque-Bera (JB):                2.206
+Skew:                          -0.401   Prob(JB):                        0.332
+Kurtosis:                       3.137   Cond. No.                         24.7
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
