@@ -1,10 +1,9 @@
 import pandas as pd
 import numpy as np
 import os
-import sys
 
 # ==============================================================================
-# KONFIGURATION
+# CONFIGURATION
 # ==============================================================================
 main_data = os.path.join('daten', 'SelfEmployedTechnicalSplitByGender.csv')
 control_data  = os.path.join('daten', 'labourParticipationAndUnemploymentRateSplitByGender.csv') 
@@ -24,7 +23,7 @@ def clean_number(x):
     return pd.to_numeric(x, errors='coerce')
 
 # ==============================================================================
-# 1. HAUPTDATEN (Selbständige)
+# 1. MAIN DATA (Self-Employed)
 # ==============================================================================
 def process_main_data(filepath):
     
@@ -56,7 +55,7 @@ def process_main_data(filepath):
     return df_long[['Province', 'Year', 'Sex', 'Self_Employed']]
 
 # ==============================================================================
-# 2. KONTROLLDATEN (Arbeitsmarkt)
+# 2. CONTROL DATA (Labor Force)
 # ==============================================================================
 def parse_statcan_controls(filepath):
 
