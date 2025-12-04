@@ -1,0 +1,221 @@
+Province,Year,Sex,Self_Employed
+Newfoundland and Labrador,2014,Men+,1900.0
+Newfoundland and Labrador,2015,Men+,2000.0
+Newfoundland and Labrador,2016,Men+,2100.0
+Newfoundland and Labrador,2017,Men+,1700.0
+Newfoundland and Labrador,2018,Men+,1300.0
+Newfoundland and Labrador,2019,Men+,1200.0
+Newfoundland and Labrador,2020,Men+,1200.0
+Newfoundland and Labrador,2021,Men+,1000.0
+Newfoundland and Labrador,2022,Men+,1200.0
+Newfoundland and Labrador,2023,Men+,1700.0
+Newfoundland and Labrador,2024,Men+,1700.0
+Prince Edward Island,2014,Men+,400.0
+Prince Edward Island,2015,Men+,600.0
+Prince Edward Island,2016,Men+,600.0
+Prince Edward Island,2017,Men+,700.0
+Prince Edward Island,2018,Men+,400.0
+Prince Edward Island,2019,Men+,700.0
+Prince Edward Island,2020,Men+,600.0
+Prince Edward Island,2021,Men+,500.0
+Prince Edward Island,2022,Men+,700.0
+Prince Edward Island,2023,Men+,600.0
+Prince Edward Island,2024,Men+,800.0
+Nova Scotia,2014,Men+,5000.0
+Nova Scotia,2015,Men+,5700.0
+Nova Scotia,2016,Men+,5200.0
+Nova Scotia,2017,Men+,4500.0
+Nova Scotia,2018,Men+,4400.0
+Nova Scotia,2019,Men+,4500.0
+Nova Scotia,2020,Men+,3800.0
+Nova Scotia,2021,Men+,5600.0
+Nova Scotia,2022,Men+,6200.0
+Nova Scotia,2023,Men+,5400.0
+Nova Scotia,2024,Men+,3300.0
+New Brunswick,2014,Men+,3100.0
+New Brunswick,2015,Men+,3700.0
+New Brunswick,2016,Men+,3100.0
+New Brunswick,2017,Men+,2800.0
+New Brunswick,2018,Men+,3300.0
+New Brunswick,2019,Men+,3000.0
+New Brunswick,2020,Men+,2600.0
+New Brunswick,2021,Men+,2600.0
+New Brunswick,2022,Men+,2900.0
+New Brunswick,2023,Men+,3600.0
+New Brunswick,2024,Men+,2600.0
+Quebec,2014,Men+,62300.0
+Quebec,2015,Men+,59300.0
+Quebec,2016,Men+,57400.0
+Quebec,2017,Men+,56200.0
+Quebec,2018,Men+,51500.0
+Quebec,2019,Men+,56100.0
+Quebec,2020,Men+,48700.0
+Quebec,2021,Men+,51800.0
+Quebec,2022,Men+,51800.0
+Quebec,2023,Men+,47500.0
+Quebec,2024,Men+,50600.0
+Ontario,2014,Men+,119700.0
+Ontario,2015,Men+,126800.0
+Ontario,2016,Men+,116700.0
+Ontario,2017,Men+,118800.0
+Ontario,2018,Men+,134000.0
+Ontario,2019,Men+,128500.0
+Ontario,2020,Men+,124000.0
+Ontario,2021,Men+,123500.0
+Ontario,2022,Men+,127800.0
+Ontario,2023,Men+,125100.0
+Ontario,2024,Men+,133300.0
+Manitoba,2014,Men+,4900.0
+Manitoba,2015,Men+,4600.0
+Manitoba,2016,Men+,6000.0
+Manitoba,2017,Men+,5300.0
+Manitoba,2018,Men+,5600.0
+Manitoba,2019,Men+,5600.0
+Manitoba,2020,Men+,5600.0
+Manitoba,2021,Men+,5500.0
+Manitoba,2022,Men+,5000.0
+Manitoba,2023,Men+,5400.0
+Manitoba,2024,Men+,6000.0
+Saskatchewan,2014,Men+,5700.0
+Saskatchewan,2015,Men+,4500.0
+Saskatchewan,2016,Men+,5000.0
+Saskatchewan,2017,Men+,4400.0
+Saskatchewan,2018,Men+,4200.0
+Saskatchewan,2019,Men+,4100.0
+Saskatchewan,2020,Men+,4200.0
+Saskatchewan,2021,Men+,2900.0
+Saskatchewan,2022,Men+,4200.0
+Saskatchewan,2023,Men+,5400.0
+Saskatchewan,2024,Men+,6900.0
+Alberta,2014,Men+,39900.0
+Alberta,2015,Men+,33900.0
+Alberta,2016,Men+,37000.0
+Alberta,2017,Men+,41200.0
+Alberta,2018,Men+,37200.0
+Alberta,2019,Men+,34300.0
+Alberta,2020,Men+,31500.0
+Alberta,2021,Men+,37700.0
+Alberta,2022,Men+,36200.0
+Alberta,2023,Men+,38500.0
+Alberta,2024,Men+,36700.0
+British Columbia,2014,Men+,38800.0
+British Columbia,2015,Men+,40200.0
+British Columbia,2016,Men+,39500.0
+British Columbia,2017,Men+,40400.0
+British Columbia,2018,Men+,45300.0
+British Columbia,2019,Men+,51000.0
+British Columbia,2020,Men+,48900.0
+British Columbia,2021,Men+,46000.0
+British Columbia,2022,Men+,47500.0
+British Columbia,2023,Men+,47100.0
+British Columbia,2024,Men+,48300.0
+Newfoundland and Labrador,2014,Women+,800.0
+Newfoundland and Labrador,2015,Women+,600.0
+Newfoundland and Labrador,2016,Women+,700.0
+Newfoundland and Labrador,2017,Women+,800.0
+Newfoundland and Labrador,2018,Women+,600.0
+Newfoundland and Labrador,2019,Women+,700.0
+Newfoundland and Labrador,2020,Women+,500.0
+Newfoundland and Labrador,2021,Women+,700.0
+Newfoundland and Labrador,2022,Women+,600.0
+Newfoundland and Labrador,2023,Women+,800.0
+Newfoundland and Labrador,2024,Women+,800.0
+Prince Edward Island,2014,Women+,300.0
+Prince Edward Island,2015,Women+,300.0
+Prince Edward Island,2016,Women+,300.0
+Prince Edward Island,2017,Women+,200.0
+Prince Edward Island,2018,Women+,200.0
+Prince Edward Island,2019,Women+,300.0
+Prince Edward Island,2020,Women+,400.0
+Prince Edward Island,2021,Women+,300.0
+Prince Edward Island,2022,Women+,400.0
+Prince Edward Island,2023,Women+,400.0
+Prince Edward Island,2024,Women+,300.0
+Nova Scotia,2014,Women+,2200.0
+Nova Scotia,2015,Women+,2000.0
+Nova Scotia,2016,Women+,3000.0
+Nova Scotia,2017,Women+,2800.0
+Nova Scotia,2018,Women+,2700.0
+Nova Scotia,2019,Women+,2700.0
+Nova Scotia,2020,Women+,2400.0
+Nova Scotia,2021,Women+,3300.0
+Nova Scotia,2022,Women+,3800.0
+Nova Scotia,2023,Women+,3900.0
+Nova Scotia,2024,Women+,2700.0
+New Brunswick,2014,Women+,1400.0
+New Brunswick,2015,Women+,1400.0
+New Brunswick,2016,Women+,2100.0
+New Brunswick,2017,Women+,1300.0
+New Brunswick,2018,Women+,1300.0
+New Brunswick,2019,Women+,2100.0
+New Brunswick,2020,Women+,1900.0
+New Brunswick,2021,Women+,1800.0
+New Brunswick,2022,Women+,1600.0
+New Brunswick,2023,Women+,2100.0
+New Brunswick,2024,Women+,2300.0
+Quebec,2014,Women+,31200.0
+Quebec,2015,Women+,34800.0
+Quebec,2016,Women+,30100.0
+Quebec,2017,Women+,35200.0
+Quebec,2018,Women+,32900.0
+Quebec,2019,Women+,33300.0
+Quebec,2020,Women+,32900.0
+Quebec,2021,Women+,34400.0
+Quebec,2022,Women+,30000.0
+Quebec,2023,Women+,28400.0
+Quebec,2024,Women+,30400.0
+Ontario,2014,Women+,60900.0
+Ontario,2015,Women+,66100.0
+Ontario,2016,Women+,63000.0
+Ontario,2017,Women+,73000.0
+Ontario,2018,Women+,75400.0
+Ontario,2019,Women+,75500.0
+Ontario,2020,Women+,72900.0
+Ontario,2021,Women+,74900.0
+Ontario,2022,Women+,78400.0
+Ontario,2023,Women+,73400.0
+Ontario,2024,Women+,80700.0
+Manitoba,2014,Women+,2900.0
+Manitoba,2015,Women+,3000.0
+Manitoba,2016,Women+,3600.0
+Manitoba,2017,Women+,3200.0
+Manitoba,2018,Women+,3500.0
+Manitoba,2019,Women+,3800.0
+Manitoba,2020,Women+,3100.0
+Manitoba,2021,Women+,3000.0
+Manitoba,2022,Women+,3200.0
+Manitoba,2023,Women+,3200.0
+Manitoba,2024,Women+,3400.0
+Saskatchewan,2014,Women+,2900.0
+Saskatchewan,2015,Women+,3600.0
+Saskatchewan,2016,Women+,3300.0
+Saskatchewan,2017,Women+,3900.0
+Saskatchewan,2018,Women+,3900.0
+Saskatchewan,2019,Women+,2700.0
+Saskatchewan,2020,Women+,2700.0
+Saskatchewan,2021,Women+,3500.0
+Saskatchewan,2022,Women+,3000.0
+Saskatchewan,2023,Women+,3800.0
+Saskatchewan,2024,Women+,3200.0
+Alberta,2014,Women+,21100.0
+Alberta,2015,Women+,20400.0
+Alberta,2016,Women+,19600.0
+Alberta,2017,Women+,21900.0
+Alberta,2018,Women+,23500.0
+Alberta,2019,Women+,24700.0
+Alberta,2020,Women+,25700.0
+Alberta,2021,Women+,22500.0
+Alberta,2022,Women+,28000.0
+Alberta,2023,Women+,30900.0
+Alberta,2024,Women+,26000.0
+British Columbia,2014,Women+,26100.0
+British Columbia,2015,Women+,27200.0
+British Columbia,2016,Women+,26500.0
+British Columbia,2017,Women+,25800.0
+British Columbia,2018,Women+,27100.0
+British Columbia,2019,Women+,31800.0
+British Columbia,2020,Women+,30300.0
+British Columbia,2021,Women+,30000.0
+British Columbia,2022,Women+,34600.0
+British Columbia,2023,Women+,30600.0
+British Columbia,2024,Women+,36300.0
