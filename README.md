@@ -1,4 +1,4 @@
-Analysis of the Women Entrepreneurial Fund's (WEF) Effect on Female Founding Rates in the Canadian Tech Sector
+Analysis of the Women Entrepreneurial Strategy's (WES) Effect on Female Founding Rates in the Canadian Tech Sector
 
 This repository contains the code, data and analysis for this Difference in Differences analysis.
 
