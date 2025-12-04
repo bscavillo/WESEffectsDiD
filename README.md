@@ -9,6 +9,4 @@ Employment by class of worker, annual (x 1,000). Table: 14-10-0027-01.
 
 Labour force characteristics by gender and detailed age group, annual. Table: 14-10-0327-01.
 
-Author: 
-
-$$Benedict Scavillo$$
+Author: Benedict Scavillo
