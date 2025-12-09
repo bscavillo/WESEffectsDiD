@@ -2,29 +2,25 @@ import pandas as pd
 import numpy as np
 import os
 
-# ==============================================================================
-# CONFIGURATION
-# ==============================================================================
-main_data = os.path.join('daten', 'SelfEmployedTechnicalSplitByGender.csv')
-control_data  = os.path.join('daten', 'labourParticipationAndUnemploymentRateSplitByGender.csv') 
 
-main_output = os.path.join('daten', 'cleanedSelfEmployed.csv')
-control_output = os.path.join('daten', 'cleanedLabourStats.csv')
+# CONFIGURATION
+
+main_data = os.path.join('data', 'SelfEmployedTechnicalSplitByGender.csv')
+control_data  = os.path.join('data', 'labourParticipationAndUnemploymentRateSplitByGender.csv') 
+
+main_output = os.path.join('data', 'cleanedSelfEmployed.csv')
+control_output = os.path.join('data', 'cleanedLabourStats.csv')
 
 def clean_number(x):
-    """
-    Entfernt Tausender-Kommas aus Strings, damit Python sie als Zahl lesen kann.
-    Beispiel: "2,305.1" -> 2305.1
-    """
     if pd.isna(x):
         return np.nan
     if isinstance(x, str):
         x = x.replace(',', '')
     return pd.to_numeric(x, errors='coerce')
 
-# ==============================================================================
-# 1. MAIN DATA (Self-Employed)
-# ==============================================================================
+
+# MAIN DATA (Self-Employed)
+
 def process_main_data(filepath):
     
     df = pd.read_csv(
@@ -54,9 +50,9 @@ def process_main_data(filepath):
 
     return df_long[['Province', 'Year', 'Sex', 'Self_Employed']]
 
-# ==============================================================================
-# 2. CONTROL DATA (Labor Force)
-# ==============================================================================
+
+# CONTROL DATA (Labor Force)
+
 def parse_statcan_controls(filepath):
 
     df = pd.read_csv(

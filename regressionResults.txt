@@ -3,8 +3,8 @@
 Dep. Variable:               log_Rate   R-squared:                       0.907
 Model:                            OLS   Adj. R-squared:                  0.897
 Method:                 Least Squares   F-statistic:                     81.41
-Date:                Thu, 04 Dec 2025   Prob (F-statistic):           1.53e-07
-Time:                        09:58:50   Log-Likelihood:                 111.24
+Date:                Tue, 09 Dec 2025   Prob (F-statistic):           1.53e-07
+Time:                        16:21:16   Log-Likelihood:                 111.24
 No. Observations:                 220   AIC:                            -176.5
 Df Residuals:                     197   BIC:                            -98.43
 Df Model:                          22                                         
