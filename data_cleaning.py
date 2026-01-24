@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 
-# CONFIGURATION
+#Configuration
 
 main_data = os.path.join('data', 'SelfEmployedTechnicalSplitByGender.csv')
 control_data  = os.path.join('data', 'labourParticipationAndUnemploymentRateSplitByGender.csv') 
@@ -19,7 +19,7 @@ def clean_number(x):
     return pd.to_numeric(x, errors='coerce')
 
 
-# MAIN DATA (Self-Employed)
+#Self-Employed Data 
 
 def process_main_data(filepath):
     
@@ -51,7 +51,7 @@ def process_main_data(filepath):
     return df_long[['Province', 'Year', 'Sex', 'Self_Employed']]
 
 
-# CONTROL DATA (Labor Force)
+#Labor Force Data
 
 def parse_statcan_controls(filepath):
 
